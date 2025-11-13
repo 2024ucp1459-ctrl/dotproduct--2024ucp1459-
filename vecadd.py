@@ -24,3 +24,4 @@ print("Result of vector addition:", result)
 
 
 #VERY GOOD CODE
+#changes made by nice
